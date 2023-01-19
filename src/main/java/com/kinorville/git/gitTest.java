@@ -5,5 +5,6 @@ public class gitTest {
         System.out.println("master commit");
         System.out.println("yjy_dev commit");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
